@@ -1,0 +1,7 @@
+[user]
+	email = kese111@gmail.com
+	name = Hanbum Park
+[core]
+	editor = vim
+[alias]
+	conflicts = diff --name-only --diff-filter=U
