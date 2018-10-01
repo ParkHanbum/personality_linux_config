@@ -6,3 +6,6 @@ sudo cp mkcscope.sh /usr/bin/
 
 sudo apt-get install cscope
 sudo apt-get install exuberant-ctags 
+
+echo "alias tmux='tmux -2'" >> ~/.bashrc
+cp .vimrc .tmux.conf .profile  .gitconfig ~/
